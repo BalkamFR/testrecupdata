@@ -1,0 +1,1 @@
+git clone https://github.com/BalkamFR/testrecupdata.git && testrecupdata/./initgit.sh
